@@ -130,6 +130,7 @@ component.
 The only way for a _parent_ component to pass data to its _child_ components is
 via **props**.
 
+
 On this line:
 
 ```jsx
